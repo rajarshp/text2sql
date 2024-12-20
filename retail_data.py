@@ -11,8 +11,8 @@ fake = Faker()
 conn = psycopg2.connect(
     dbname="postgres",
     user="postgres.rcpmmygrfhobggbgqyux",
-    password="mnEUifnWjJ5BqXqk",
-    host="aws-0-us-west-1.pooler.supabase.com",
+    password="",
+    host="",
     port="6543"
 )
 
